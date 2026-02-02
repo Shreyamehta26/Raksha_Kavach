@@ -1,2 +1,1 @@
-# Raksha_Kavach
-Raksha Kavach is a JavaFX app that helps users access government healthcare schemes for affordable treatment. Uses Firebase for authentication, real-time database, and storage, with MVC architecture, responsive UI, and exception handling for secure, reliable performance.
+Raksha Kavach is a JavaFX-based application that helps users access government healthcare schemes using secure Firebase authentication and real-time data storage. Built with MVC architecture, it features a responsive UI, document-based self-registration, and reliable exception handling.
